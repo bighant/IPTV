@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF: -1 tvg-logo = "https://bit.ly/3qeNrSv" group-title = "Documentario", Animal Planet
+https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanetsd/video.m3u8?md5=srgDTuev00TK8ZbrtynThQ&expires=1623044098
+#EXTINF: -1 tvg-logo = "https://bit.ly/2NeJUF4" group-title = "Documentario", Discovery Channel
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8?md5=xcML62WRg5ADQ1fNXt5FsA&expires=1623043861

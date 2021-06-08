@@ -1,0 +1,7 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-chno="01" tvg-logo="https://bit.ly/3qeNrSv" tvg-logo-small="https://bit.ly/3qeNrSv" group-title="Documentario", ANIMAL PLANET FHD
+http://tv1.cs10.tv:80/imp23113189/42322/474
+#EXTINF: -1 group-title="Ungrouped", Animal Planet
+https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanetsd/video.m3u8?md5=srgDTuev00TK8ZbrtynThQ&expires=1623044098
+#EXTINF: -1 group-title="Ungrouped", Discovery Channel
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8?md5=xcML62WRg5ADQ1fNXt5FsA&expires=1623043861
